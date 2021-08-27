@@ -1,4 +1,4 @@
-# WINRDP BA_channel
+# WINRDP HTTPS://TWITTER.COM/VANGERHANS
 
 build yml :https://pastebin.com/MBVNQp2G
 
